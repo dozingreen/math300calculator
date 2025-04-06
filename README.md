@@ -20,5 +20,4 @@ With the weighting adjusted to account for the fact that the final isn't in
 
 - I don't see anything you put in. This is very bare bones and doesn't even handle typos/invalid inputs. May improve that eventually
 
-- Made in c++ and will gladly share the code if you want to see it 
 
