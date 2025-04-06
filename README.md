@@ -1,5 +1,5 @@
 # math300calculator
-trying to get around virus flagging from google drive 
+Gets your category averages and overall average in the class with the available scores
 
 Everything is based off this part of the syllabus
 
